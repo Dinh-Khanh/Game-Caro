@@ -1,0 +1,39 @@
+check in row
+15a 14a 15b 13a 15c 12a 15d 11a 15e 10a
+15d 15a 15e 15b 15f 15c 15g 11a 15h 10a
+
+check in column
+15a 12a 14a 11a 13a 10a 15d 9a 15f 8a 
+
+check won in diagonal left to right
+15a 1a 14b 2a 13c 3a 12d 4a 11e 5c 10f
+ 
+check won in diagonal right to left
+15o 1a 14n 2a 13m 3a 12l 4a 11k 5a 10j
+
+check won in diagonal right to left + đk1
+15n 15o 14n 9i 13m 3a 12l 4a 11k 5a 10j 6a 10k 7a
+
+
+check won in diagonal left to right + dk1
+14a 15a 14b 9g 13c 3a 12d 4a 11e 5a 10f 6a 14c 7a
+
+check in row + dk1
+1a 15a 15b 13a 15c 12a 15d 11a 15e 15g 15f 14a
+
+check in column + dk1
+15a 14a 9a 13a 15c 12a 15d 11a 15f 10a 15b 1a 15e 
+
+
+check in row + dk2
+15a 14a 9a 13a 15c 12a 15d 11a 15f 10a 15b 1a 15e 
+
+check in column + dk2
+15a 14a 5a 13a 15c 12a 15d 11a 15f 9a 15b 10a 15e
+
+check rule 1
+7i 7h 8f 8h 9g 10h 9h 9i 8j 6h 6f
+9f 4h 6g 5f 7f 10g 11f 5h 5g 4g
+10j 11k 6i 8g 11g 3h 2i 4f 4e 2h
+1h 3f 2f 3g 5e 3e 3d 4i 3j 3i 4k
+4j 5l
